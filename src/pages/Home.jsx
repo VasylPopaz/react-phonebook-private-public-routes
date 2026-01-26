@@ -5,7 +5,7 @@ import heroImg from 'assets/images/bg-hero.jpg';
 const Home = () => {
   return (
     <div
-      className="hero min-h-screen bg-no-repeat bg-center bg-cover"
+      className="hero h-[calc(100dvh-64px)] bg-no-repeat bg-center bg-cover"
       style={{
         backgroundImage: `url(${heroImg}) `,
       }}
