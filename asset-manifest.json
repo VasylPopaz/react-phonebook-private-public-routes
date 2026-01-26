@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/react-phonebook-private-public-routes/static/css/main.385d03a5.css",
-    "main.js": "/react-phonebook-private-public-routes/static/js/main.090e09c5.js",
-    "static/js/807.d5f4b4b8.chunk.js": "/react-phonebook-private-public-routes/static/js/807.d5f4b4b8.chunk.js",
+    "main.css": "/react-phonebook-private-public-routes/static/css/main.10c9cfa7.css",
+    "main.js": "/react-phonebook-private-public-routes/static/js/main.641dbd29.js",
+    "static/js/807.33990de0.chunk.js": "/react-phonebook-private-public-routes/static/js/807.33990de0.chunk.js",
     "static/js/285.4f0ec881.chunk.js": "/react-phonebook-private-public-routes/static/js/285.4f0ec881.chunk.js",
     "static/js/38.319eb8fc.chunk.js": "/react-phonebook-private-public-routes/static/js/38.319eb8fc.chunk.js",
     "static/js/910.13df3319.chunk.js": "/react-phonebook-private-public-routes/static/js/910.13df3319.chunk.js",
     "static/media/bg-hero.jpg": "/react-phonebook-private-public-routes/static/media/bg-hero.50fbf10e107e7bea1d26.jpg",
     "index.html": "/react-phonebook-private-public-routes/index.html",
-    "main.385d03a5.css.map": "/react-phonebook-private-public-routes/static/css/main.385d03a5.css.map",
-    "main.090e09c5.js.map": "/react-phonebook-private-public-routes/static/js/main.090e09c5.js.map",
-    "807.d5f4b4b8.chunk.js.map": "/react-phonebook-private-public-routes/static/js/807.d5f4b4b8.chunk.js.map",
+    "main.10c9cfa7.css.map": "/react-phonebook-private-public-routes/static/css/main.10c9cfa7.css.map",
+    "main.641dbd29.js.map": "/react-phonebook-private-public-routes/static/js/main.641dbd29.js.map",
+    "807.33990de0.chunk.js.map": "/react-phonebook-private-public-routes/static/js/807.33990de0.chunk.js.map",
     "285.4f0ec881.chunk.js.map": "/react-phonebook-private-public-routes/static/js/285.4f0ec881.chunk.js.map",
     "38.319eb8fc.chunk.js.map": "/react-phonebook-private-public-routes/static/js/38.319eb8fc.chunk.js.map",
     "910.13df3319.chunk.js.map": "/react-phonebook-private-public-routes/static/js/910.13df3319.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.385d03a5.css",
-    "static/js/main.090e09c5.js"
+    "static/css/main.10c9cfa7.css",
+    "static/js/main.641dbd29.js"
   ]
 }
